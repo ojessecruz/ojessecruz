@@ -35,6 +35,8 @@ I build Laravel and Livewire products end to end, then extract the reusable part
     <td width="50%" valign="top">
       <h3><a href="https://github.com/omni-line/omni-audit">Omni Audit</a> · Contributor</h3>
       <p>A fast, zero-config Go CLI that audits projects for dependency confusion and supply-chain risks across multiple package registries.</p>
+      <a href="https://hub.xerj.org/contributors/ojessecruz"><img src="https://hub.xerj.org/contributors/ojessecruz/badge.svg" alt="XERJ Corpus Hub contributor" /></a>
+      <br />
       <a href="https://github.com/omni-line/omni-audit/commits?author=ojessecruz">View contributions →</a>
     </td>
     <td width="50%" valign="top">
